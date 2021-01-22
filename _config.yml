@@ -116,8 +116,8 @@ comments_provider: gitalk
 gitalk:
     owner: zoup0512
     repo: blog-comments
-    clientID: 0342870fa676a99b613e
-    clientSecret: 0fdb76ba6015b8e6e6ad53a5369000fe071d1b46
+    clientID: 1fd4a0a225d8a1a71861
+    clientSecret: 3ad441711343b964948e04bc70b12dc50d77586c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -140,5 +140,3 @@ google:
         sidebar: true 
         content_header: true
         content_footer: false
-
-theme: jekyll-theme-minimal
