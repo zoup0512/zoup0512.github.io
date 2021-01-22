@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android事件分发
-categories: [Android, View]
+categories: [Android]
 description: 老生常谈，事件分发，附代码（Kotlin）
 keywords: View, 事件分发
 ---
